@@ -1,5 +1,6 @@
 # Hi there, I'm Shrishti Tiwari! 👋
 
+
 ## 🚀 About Me
 - 🎓 **BSc Computer Science** Student at **Ramniranjan Jhunjhunwala College**, Mumbai
 - 💻 Experienced in **Python, C++, Java, and Web Programming**
@@ -15,6 +16,18 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📂 My Projects
+
+- 🚀 **Stock Market App** (React.js)  
+  🔹 A real-time stock market tracking app built using **React.js**.  
+  🔹 Displays stock price trends, charts, and market analysis.  
+  🔹 Uses API integration for live stock updates.  
+
+- 🌦️ **Weather App**  
+  🔹 A weather forecasting app that provides real-time weather updates.  
+  🔹 Built using **JavaScript, HTML, and CSS** with a weather API.  
+  🔹 Displays temperature, humidity, and weather conditions for any location.  
 
 ## 📊 GitHub Stats
 ![Shrishti-byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrishti-byte&show_icons=true&theme=tokyonight)
