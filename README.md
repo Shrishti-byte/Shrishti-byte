@@ -1,7 +1,5 @@
 # Hi there, I'm Shrishti Tiwari! 👋
 
-![Banner](https://your-banner-image-url.com)
-
 ## 🚀 About Me
 - 🎓 **BSc Computer Science** Student at **Ramniranjan Jhunjhunwala College**, Mumbai
 - 💻 Experienced in **Python, C++, Java, and Web Programming**
@@ -34,4 +32,3 @@
 ---
 🎯 **Let's Code & Create Together!** 🚀
 
-![GIF](https://your-gif-url.com)
