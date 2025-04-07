@@ -4,8 +4,8 @@
 ## 🚀 About Me
 - 🎓 **BSc Computer Science** Student at **Ramniranjan Jhunjhunwala College**, Mumbai
 - 💻 Experienced in **Python, C++, Java, and Web Programming**
-- 🎨 **Graphic Designer** Intern at InAmigos Foundation
-- 🎥 **AI Video Editing Intern** at DT
+- 🎨 **Graphic Designer** Interned at InAmigos Foundation
+- 🎥 **AI Video Editing Interned at DT
 - 🚀 Exploring **React.js** and **Advanced Video Editing**
 - 🛠️ Previously a **Web Development Intern** at Adi Foundation
 
